@@ -1,0 +1,10 @@
+paths:
+  raw: "data/raw/manutencao.csv"
+  processed: "data/processed/kpi_manutencao.xlsx"
+  plot: "data/plots/tempo_parado.png"
+  log: "data/logs/pipeline.log"
+
+data:
+  start_date: "2024-01-01"
+  periods: 12
+  seed: 42

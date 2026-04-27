@@ -1,0 +1,22 @@
+2026-04-26 23:40:58,044 - INFO - Início do pipeline
+2026-04-26 23:40:58,048 - INFO - Gerando dados simulados
+2026-04-26 23:40:58,101 - INFO - 12 registros gerados
+2026-04-26 23:40:58,104 - INFO - Transformando dados
+2026-04-26 23:40:58,116 - INFO - Salvando dados
+2026-04-26 23:40:59,692 - INFO - Dados salvos em CSV e Excel
+2026-04-26 23:40:59,696 - INFO - Gerando gráfico
+2026-04-26 23:41:02,046 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-26 23:41:02,048 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-26 23:41:02,184 - INFO - Gráfico gerado
+2026-04-26 23:41:02,184 - INFO - Pipeline finalizado com sucesso
+2026-04-26 23:44:07,101 - INFO - Início do pipeline
+2026-04-26 23:44:07,105 - INFO - Gerando dados simulados
+2026-04-26 23:44:07,127 - INFO - 12 registros gerados
+2026-04-26 23:44:07,130 - INFO - Transformando dados
+2026-04-26 23:44:07,141 - INFO - Salvando dados
+2026-04-26 23:44:07,725 - INFO - Dados salvos em CSV e Excel
+2026-04-26 23:44:07,729 - INFO - Gerando gráfico
+2026-04-26 23:44:08,399 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-26 23:44:08,402 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-04-26 23:44:08,565 - INFO - Gráfico gerado
+2026-04-26 23:44:08,565 - INFO - Pipeline finalizado com sucesso
